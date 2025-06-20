@@ -306,6 +306,16 @@ That also changes how we think about authorship. Aarseth talks about “cybertex
 There’s also something really material about ergodic literature that makes it feel different from print. It’s not just abstract narrative theory — it’s tied to code, platforms, and interfaces. Reading becomes tied to process. In a way, Aarseth makes it clear that digital literature isn’t just literature that happens to be online. It’s something else. Something that demands more from both reader and writer, and maybe gives more back too.
 
 
+Reflection on Feedback and Peer Presentations
 
+I was glad to see the visual and conceptual design were doing what I hoped—the retro-computing vibe and the way the story’s unfolding both seem to be working. It feels like the atmosphere I’m going for is coming across, which is reassuring.
+
+That said, I have been encountering a lot of issues with the interactive elements staying functional when I make seemingly unrelated changes, and resolving this has been my focus. 
+
+I’ve since been attempting to resolve several layout and macro issues and introducing a dynamic interface mode change that I think deepens the narrative experience. I hadn’t initially planned this but I think works well to visually represent the tonal shifts.
+
+I wasn’t present for the peer presentations, but I followed some project discussions on Discord. One thing that stood out was how it seemed others are creating really intimate or unsettling tones. Especially because I have been struggling to make everything work as I would like, this has made me consider paring back my UI to rely more on spacing, pacing, and dialogue rhythm. 
+
+I also realised from those conversations how important it is to allow players moments of pause or friction, places where the interface slows down rather than just clicks through. This has made me think more about how my story is read, not just what happens in it.
 
 
