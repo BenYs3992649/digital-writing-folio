@@ -6,15 +6,18 @@ I write science fiction, speculative fiction, short stories, and the occasional 
 Responding to Digital Writing Collections
 
 From collection 1 - Deviant: The Possession of Christian Shaw by Donna Leishman
+
 This felt really different from everything else I’ve seen so far. It definitely wouldn’t work as a printed story. 
 The fact that I had to explore the space by clicking and hovering made it feel more like I was uncovering something than reading it. 
 That’s probably what makes it a piece of digital writing, it’s not just the content, but the way the reader interacts with it that creates meaning. I didn’t get a straightforward narrative, but more like a mood or impression. I was confused at first, not sure what I was supposed to do, but once I leaned into that feeling, it kind of made sense. It’s eerie and quiet and unsettling, and I think that works really well with the story it’s telling. I’m still not totally sure I “got it,” but maybe that’s okay, it made me think about how stories can be told through structure, not just text.
 
 From collection 2 - Voyage Into The Unknown by Roderick Coover
+
 I just finished clicking through Voyage Into the Unknown and honestly kind of lost track of time. 
 It’s not really a “read this start to finish” thing, it felt more like wandering through a scrapbook or a memory, like you’re not being told a story so much as uncovering one that’s been buried. the old maps and photos made it feel eerie and quiet, like there’s something just out of reach. The interface is a bit clunky, flash really shows its age and a couple times I wasn’t sure if I was doing something wrong or if the story was just being intentionally hard to access (probably both?). Still, the nonlinear structure was cool, it let me make my own connections. Not sure I “got” the whole thing, but maybe that’s the point. more vibe than plot. it’s definitely digital in the way it forces you to interact. just reading wouldn’t have the same effect.
 
 From collection 3 - The Silent Numbers by Matthew Kirkpatrick
+
 This one is weird and I’m not sure I get it as ‘literature’, digital or otherwise.
 This feels like listening in on secret transmissions, text flickers then disappears as number voices and static wash over me. It’s definitely digital writing because it uses a web interface plus audio and the words aren’t fixed; they glitch in and out in sync with the broadcasting hiss. The numbers carry mystery rather than meaning, there’s this haunting energy even when I don’t understand a thing: voices reading digits, mingled with noise, like background music and code fused .
 
