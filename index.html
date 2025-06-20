@@ -76,7 +76,7 @@
       function assemblePoem(articleWords) {
         let lineText = "";
         for (const [counter, word] of articleWords.entries()) {
-          if ((counter + 1) % 3 == 0) {
+          if ((counter + 1) % 7 == 0) {
             addLine(lineText);
             lineText = "";
           } else {
