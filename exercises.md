@@ -280,3 +280,32 @@ GITCH Remix Dadaist Poem
 
 https://icy-fantastic-poinsettia.glitch.me
 
+
+Mapping Ideas - Twine Project in Progress
+
+For my final project, I’ve been mapping my ideas using a mixture of physical sketching, iterative coding, and troubleshooting live inside Twine. I haven’t followed a traditional planning method like storyboarding everything first—instead, I’ve approached it like a recursive design process, constantly cycling between writing, testing, and rewriting as I go. This mirrors how I tend to write on paper too: sketching fragments, then expanding or discarding them when they don’t fit.
+
+What’s new for me is how spatial and layered the writing feels in Twine. In print, I’m used to a single linear narrative path. But here, branching structure and conditional logic force me to think in terms of possibilities rather than a fixed storyline. I’ve started using passage naming conventions and a shared variable system (like $contentPassage and interface modes) to keep things organized. That part has definitely worked—naming and interface-state tracking has made it much easier to debug and visualize where I am in the narrative flow.
+
+What hasn’t worked as well is trying to “pre-map” everything too tightly. The moment I tried to draw a complete flowchart or rigid outline, it collapsed under the weight of how quickly the project evolved during actual testing. I also spent hours chasing bugs that came from invisible conflicts—like macro scoping or style bleed—because I didn’t fully understand how Harlowe handled inheritance between passages at first. So instead of top-down planning, what’s worked best is modular prototyping: building one passage or interaction at a time, seeing if it feels right in context, then letting that inform the next node.
+
+Visually, I’ve also experimented with changing the terminal UI mid-game (like shifting from a corporate cubicle look to a CRT-style “Tallis Mode”) as a way of signaling narrative change. That’s new for me too—designing visuals as part of the storytelling, not just decoration. It’s made me think about reader atmosphere as part of the writing.
+
+In short: my map is dynamic, partial, and heavily revised. But I’m learning to treat that not as a flaw, but a feature of working in digital literature. The story reveals itself as much through structure as it does through language.
+
+
+
+"What do you think of Aarsath's concept of Ergodic Literature?"
+
+I didn’t know what “ergodic” meant before this reading, so I had to look it up — and honestly that word alone kind of captures what this reading did for me. Aarseth’s definition of ergodic literature as something that requires “nontrivial effort” to traverse makes total sense once you start applying it to interactive work. It’s not just about reading anymore; it’s about doing something. That shift is small at first, but the more I thought about it, the more it started to feel like a really big deal.
+
+With most print literature, reading is passive. You’re turning pages, but the author has already made all the choices. Even if the plot is nonlinear, you’re still following the path that’s been laid out. But in ergodic literature, the reader becomes part of the narrative system. There’s effort, decision-making, sometimes even failure. Shade was the clearest example of this for me — there’s no “correct” sequence, and the story unfolds depending on what you type. It made me think more about the role of the reader as a kind of participant, not just an observer.
+
+That also changes how we think about authorship. Aarseth talks about “cybertext” and “textons” and “scriptons,” but what stuck with me most is the idea that the text isn’t just what’s written — it’s what gets performed through interaction. So authors aren’t just writing words, they’re building systems. The reader has to figure out how to operate those systems to generate meaning. It reminds me of what came up in the “Posthumanist Authorship” piece — the idea that authorship is distributed between writer, interface, tool, and reader. It’s not that the writer disappears, but that their authority becomes shared.
+
+There’s also something really material about ergodic literature that makes it feel different from print. It’s not just abstract narrative theory — it’s tied to code, platforms, and interfaces. Reading becomes tied to process. In a way, Aarseth makes it clear that digital literature isn’t just literature that happens to be online. It’s something else. Something that demands more from both reader and writer, and maybe gives more back too.
+
+
+
+
+
