@@ -1,3 +1,8 @@
+BIO NOTE
+
+I write science fiction, speculative fiction, short stories, and the occasional piece of memoir. I mostly work by hand at first, using pen and paper to sketch scenes, ideas, or fragments of dialogue. Writing this way helps me think slowly and stay connected to the rhythm of the language. When I move to the computer to edit or expand, I use basic word processors. I’ve never used code or digital tools in my creative practice before now — the tools I use tend to support a linear, character-driven approach and keep things grounded in what feels familiar.
+
+
 Responding to Digital Writing Collections
 
 From collection 1 - Deviant: The Possession of Christian Shaw by Donna Leishman
