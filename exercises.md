@@ -275,3 +275,8 @@ There were rivulets for Dante hidden in the holy machetes.
 Agency.
 All down to his damned agency.
 
+
+GITCH Remix Dadaist Poem
+
+https://icy-fantastic-poinsettia.glitch.me
+
