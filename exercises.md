@@ -64,3 +64,18 @@ E-lit often changes or moves, and it usually invites you to interact with it. It
 
 What are the qualities of the works we might consider qualities of e-literature?
 Some shared qualities are interactivity, procedural generation, multimodality (text, visuals, sound), and nonlinearity. They often play with interface or ask the reader to participate in meaning-making. They might rely on digital structures like links or code, and they’re usually self-aware about what reading or writing even means in a digital context.
+
+
+
+REMIX Excercises
+
+What aspects of the remix are the same?
+The basic structure hasn’t really changed — it’s still a set of lists that the computer pulls from to mash together little poetic fragments. It’s modular and random, and that part’s stayed consistent. I'm still using categories like "subjects," "verbs," and "objects" (or search phrases), and the code is doing the heavy lifting in combining them. The remix is built on the same foundation — just swapping out the content.
+
+What aspects of the remix are different?
+The vibe is completely different now. Originally, it was funny and kind of absurd — Garfield, cheese, talking about lasagna. Now it’s dark, kind of eerie, definitely more serious. The new phrases are pulling in stuff like family law, domestic violence, digital surveillance — they feel way more grounded in real life, even though they’re being used in a poetic way. Same with the subject/verb/object stuff — it’s gone from “robots wandering wastelands” to something more like spiritual decay and weird future prophecy. Same engine, new fuel.
+
+Is the remix successful (why or why not)?
+I think it is — it surprised me in a good way. I didn’t expect that just changing the words in a few arrays would shift the tone this much. It feels like the same tool is suddenly doing something much heavier and more layered. I’m still figuring out how coding and poetry work together, but this made me realise how much the input shapes the output, even if the structure stays the same. So yeah, the remix works, because it shows that you can get something strange and meaningful out of a pretty simple system — especially when the language is doing something emotional or unsettling.
+
+
